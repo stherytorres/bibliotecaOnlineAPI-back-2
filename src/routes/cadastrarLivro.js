@@ -1,6 +1,6 @@
 const express = require("express");
 const router = express.Router();
-const livroModel = require("../module/livro/livromodel");
+const livroModel = require("../module/livro/livroModel");
 
 router.post("/cadastrar", async (req, res) => {
     const livro = new livroModel(req.body);

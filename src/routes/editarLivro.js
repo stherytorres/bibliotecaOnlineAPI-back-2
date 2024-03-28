@@ -1,6 +1,6 @@
 const express = require("express");
 const router = express.Router();
-const livroModel = require("../module/livro/livromodel");
+const livroModel = require("../module/livro/livroModel");
 
 router.put("/editar/:id", async (req, res) => {
     try {
