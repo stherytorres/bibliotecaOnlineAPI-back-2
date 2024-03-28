@@ -2,7 +2,7 @@ const express = require("express");
 const router = express.Router();
 const livroModel = require("../module/livro/livroModel");
 
-router.delete("/apagar/:id", async (req, res) => {
+router.delete("/:id", async (req, res) => {
     try {
         const livro = await livroModel.findByIdAndDelete(req.params.id)
         if (!livro) {
@@ -13,5 +13,6 @@ router.delete("/apagar/:id", async (req, res) => {
         res.status(500).send(error)
     }
 });
+
 
 module.exports = router;
