@@ -1,5 +1,4 @@
 URL da API: https://biblioteca-online-api-back-2-rouge.vercel.app/
-URL da Aplicação Frontend: https://bibliotecaonlineapi.netlify.app/
 
 Tecnologias utilizadas:
 - express.js
@@ -16,3 +15,5 @@ $ npm install
 
 abra outro terminal e rode o projeto
 $ npm run dev
+
+URL da Aplicação Frontend: https://bibliotecaonlineapi.netlify.app/
