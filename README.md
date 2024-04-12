@@ -15,5 +15,3 @@ $ npm install
 
 abra outro terminal e rode o projeto - 
 $ npm run dev
-
-URL da Aplicação Frontend: https://bibliotecaonlineapi.netlify.app/
