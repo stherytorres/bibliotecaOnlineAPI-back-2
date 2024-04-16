@@ -5,8 +5,9 @@
 **API alternativa para a aplicação Frontend: [Biblioteca Online Frontend](https://bibliotecaonlineapi.netlify.app)** <br>
 **Desenvolvida com o objetivo de aprimorar o conhecimento na Framework Express**
 
-Aplicação em React Vite desenvolvida para listar, editar, deletar e visualizar livros cadastrados em um banco de dados, <br>
-com o objetivo de colocar em prática a biblioteca de desenvolvimento de interfaces React.js.<br>
+Aplicação em React Vite desenvolvida para listar, editar, deletar e visualizar livros cadastrados <br>
+em um banco de dados, com o objetivo de colocar em prática a biblioteca de desenvolvimento <br>
+de interfaces React.js.<br>
 
 Como usar: Para entrar na rota de listagem de livros é preciso clicar em 'livros' no menu superior. <br>
 Aparecerá um botão para o cadastro de livro. <br>
