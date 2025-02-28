@@ -33,7 +33,7 @@ Dependências: Dotenv, Cors e Nodemon <br>
 * Crie uma pasta no seu computador: 'minha-pasta' <br>
 * Abra 'minha-pasta' no VS Code <br>
 * Abra o terminal no VS Code <br>
-* Clone o repositório: $ git clone https://github.com/stherystyll/bibliotecaOnlineAPI-back-2.git <br>
+* Clone o repositório: $ git clone https://github.com/stherytorres/bibliotecaOnlineAPI-back-2.git <br>
 * Execute o comando 'npm install' ou 'npm i'. Isso instalará todas as dependências do projeto listadas no arquivo package.json.<br>
 
 Para rodar esse projeto, você vai precisar adicionar as seguintes variáveis de ambiente no seu .env<br>
@@ -51,5 +51,5 @@ Link da API: [API Biblioteca Online](https://biblioteca-online-api-back-2-rouge.
 ## Contato:<br>
 Se você tiver alguma dúvida ou sugestão sobre o Projeto, sinta-se à vontade para entrar em contato:<br>
 
-- Email: sthery.styll@gmail.com<br>
-- LinkedIn: [Perfil no LinkedIn](https://www.linkedin.com/in/sthery-alves-5214ab99/)
+- Email: stor68@proton.me<br>
+- LinkedIn: [Perfil no LinkedIn](https://www.linkedin.com/in/sthery-torres/)
